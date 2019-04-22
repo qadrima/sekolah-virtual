@@ -1,3 +1,14 @@
+## Sekolah Virtual
+
+- composer install
+- copy .env
+- php artisan key:generate
+- composer dump-autoload
+- php artisan migrate
+- php artisan serve
+
+User type 1 adalah siswa, 2 adalah guru, default siswa.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
